@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, my name is Jake
+- 👀 I’m interested in learning more about machine learning and AI
+- 🌱 I’m currently learning as much as I can
+- 👯 I’m looking to collaborate on cool and interesting projects
+- 📫 How to reach me at my email: jdwillmsen@gmail.com
 
 <!--
 **jdwillmsen/jdwillmsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
