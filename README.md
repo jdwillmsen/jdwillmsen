@@ -52,9 +52,9 @@
     <a href="https://ko-fi.com/jdwillmsen"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jdwillmsen" /></a>
   </p>
 </div>
-<br><br><br><br>
+<br><br><br>
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdwillmsen&show_icons=true&locale=en&layout=compact" alt="jdwillmsen" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jdwillmsen&show_icons=true&locale=en" alt="jdwillmsen" /></p>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&" alt="jdwillmsen" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdwillmsen&show_icons=true&locale=en&layout=compact" alt="jdwillmsen" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jdwillmsen&show_icons=true&locale=en" alt="jdwillmsen" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&" alt="jdwillmsen" /></p>
 </div>
