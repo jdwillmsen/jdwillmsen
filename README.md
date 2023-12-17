@@ -55,6 +55,4 @@
 <br><br><br>
 <div>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdwillmsen&show_icons=true&locale=en&layout=compact" alt="jdwillmsen" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jdwillmsen&show_icons=true&locale=en" alt="jdwillmsen" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&" alt="jdwillmsen" /></p>
 </div>
