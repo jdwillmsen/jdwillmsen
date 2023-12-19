@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm rather tall**
 
-- 🐳 My <a href="https://hub.docker.com/search?q=jdwillmsen">DockerHub images </a>
+- 🐳 My <a href="https://hub.docker.com/search?q=jdwillmsen">DockerHub</a> images 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
