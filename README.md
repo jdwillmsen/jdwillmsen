@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdwillmsen" alt="jdwillmsen" /></a> </p>
 
-- 🔭 I’m currently working on learning new languages
+- 🔭 I’m currently working on a platform that supports micro-frontends and backend togethers hosted on kubernetes platform with ArgoCD. (JDW)
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
