@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0e75b6&style=flat" alt="jdwillmsen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdwillmsen" alt="jdwillmsen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdwillmsen&no-cache=true" alt="jdwillmsen" /></a> </p>
 
 - 🔭 I’m currently working on a platform that supports micro-frontends and backend together using GitOps principals and being deployed with Kubernetes using ArgoCD. (JDW)
 
