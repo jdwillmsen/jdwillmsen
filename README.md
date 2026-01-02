@@ -56,5 +56,5 @@
 </div>
 <br><br><br>
 <div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdwillmsen&show_icons=true&locale=en&layout=compact&langs_count=20" alt="jdwillmsen" /></p>
+  <p> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdwillmsen&show_icons=true&locale=en&layout=compact&langs_count=20&no-cache=true" alt="jdwillmsen" /> </a> </p>
 </div>
