@@ -1,10 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20aaAngular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlignY=60&fontColor=ffffff&descColor=ffffff&font=Roboto">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=6,2,2,5&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20aaAngular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlignY=60&fontColor=000000&descColor=000000&stroke=000000&strokeWidth=3&font=Roboto">
-    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20aaAngular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlignY=60&fontColor=ffffff&descColor=ffffff&font=Roboto" alt="Header"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&font=Roboto">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=30,31,32,33,34&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlign=50&descAlignY=60&fontColor=000000&descColor=000000&stroke=000000&strokeWidth=2&font=Roboto">
+    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&font=Roboto" alt="Header"/>
   </picture>
 </p>
+
 
 <p align="center">
   <picture>
