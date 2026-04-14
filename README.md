@@ -16,9 +16,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=c9d1d9&style=flat">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=000000&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=000000&style=flat" alt="jdwillmsen" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=grey&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=lightgrey&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=lightgrey&style=flat" alt="jdwillmsen" />
   </picture>
   <img src="https://img.shields.io/github/followers/jdwillmsen?label=Followers&style=social" alt="followers" />
 </p>
