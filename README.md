@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=c9d1d9&descColor=c9d1d9">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000">
-    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60"/>
+    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000" alt="Header"/>
   </picture>
 </p>
 
@@ -10,15 +10,15 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions&color=F0F6FC">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions&color=000000">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions&color=000000" alt="Typing SVG" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=58a6ff&style=flat">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0e75b6&style=flat" alt="jdwillmsen" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=c9d1d9&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=000000&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=000000&style=flat" alt="jdwillmsen" />
   </picture>
   <img src="https://img.shields.io/github/followers/jdwillmsen?label=Followers&style=social" alt="followers" />
 </p>
