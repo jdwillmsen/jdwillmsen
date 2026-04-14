@@ -1,8 +1,11 @@
 <p align="center">
   <picture>
+    <!-- Dark mode: Original gradient with light text -->
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=c9d1d9&descColor=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=6,11,20,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=c9d1d9&descColor=c9d1d9">
-    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=c9d1d9&descColor=c9d1d9" alt="Header"/>
+    <!-- Light mode: Custom gradient with dark text - using darker colors so black text shows -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=0:FFB6C1,100:FF69B4&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000">
+    <!-- Fallback: Use the light mode version -->
+    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=0:FFB6C1,100:FF69B4&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000" alt="Header"/>
   </picture>
 </p>
 
@@ -16,9 +19,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=grey&style=flat">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=lightgrey&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=lightgrey&style=flat" alt="jdwillmsen" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=58a6ff&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0e75b6&style=flat" alt="jdwillmsen" />
   </picture>
   <img src="https://img.shields.io/github/followers/jdwillmsen?label=Followers&style=social" alt="followers" />
 </p>
