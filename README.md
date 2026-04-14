@@ -25,9 +25,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=algolia&no-frame=true&row=1&column=7">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=onedark&no-frame=true&row=1&column=7">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=flat&no-frame=true&row=1&column=7">
-    <img src="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=algolia&no-frame=true&row=1&column=7" alt="jdwillmsen" />
+    <img src="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=onedark&no-frame=true&row=1&column=7" alt="jdwillmsen" />
   </picture>
 </p>
 
@@ -107,12 +107,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api?username=jdwillmsen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api?username=jdwillmsen&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api?username=jdwillmsen&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdwillmsen&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=onedark&hide_border=true&langs_count=10">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=default&hide_border=true&langs_count=10">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages"/>
   </picture>
@@ -120,7 +120,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&theme=onedark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&theme=default&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </picture>
@@ -128,9 +128,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=tokyo-night&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=one-dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=github-light&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=one-dark&hide_border=true" alt="Contribution Graph" />
   </picture>
 </p>
 
