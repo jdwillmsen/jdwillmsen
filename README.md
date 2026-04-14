@@ -107,13 +107,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jdwillmsen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jdwillmsen&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api?username=jdwillmsen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api?username=jdwillmsen&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdwillmsen&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=default&hide_border=true&langs_count=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-rouge-gamma.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=default&hide_border=true&langs_count=10">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdwillmsen&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages"/>
   </picture>
 </p>
