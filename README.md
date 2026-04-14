@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=c9d1d9&descColor=c9d1d9">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000&textBg=true">
     <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000&textBg=true" alt="Header"/>
   </picture>
@@ -16,9 +16,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=555555&style=flat">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=ffffff&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=ffffff&style=flat" alt="jdwillmsen" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=58a6ff&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0969da&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0969da&style=flat" alt="Profile views" />
   </picture>
   <img src="https://img.shields.io/github/followers/jdwillmsen?label=Followers&style=social" alt="followers" />
 </p>
