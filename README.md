@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=c9d1d9&descColor=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000">
-    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000" alt="Header"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=c9d1d9&descColor=c9d1d9&textBg=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000&textBg=true">
+    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=000000&descColor=000000&textBg=true" alt="Header"/>
   </picture>
 </p>
 
