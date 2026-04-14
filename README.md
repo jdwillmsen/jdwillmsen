@@ -1,22 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60&fontColor=c9d1d9&descColor=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60">
+    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descAlignY=60"/>
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions&color=F0F6FC&background=0D111700">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions&color=000000&background=FFFFFF00">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions" alt="Typing SVG" />
-  </a>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0e75b6&style=flat" alt="jdwillmsen" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=58a6ff&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=jdwillmsen&label=Profile%20views&color=0e75b6&style=flat" alt="jdwillmsen" />
+  </picture>
   <img src="https://img.shields.io/github/followers/jdwillmsen?label=Followers&style=social" alt="followers" />
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=light">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=algolia&no-frame=true&row=1&column=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=flat&no-frame=true&row=1&column=7">
     <img src="https://github-profile-trophy-chi-eight.vercel.app/?username=jdwillmsen&theme=algolia&no-frame=true&row=1&column=7" alt="jdwillmsen" />
-  </a>
+  </picture>
 </p>
 
 ---
@@ -107,11 +119,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdwillmsen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=tokyo-night&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=github-light&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  </picture>
 </p>
 
 ---
@@ -171,5 +191,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&fontColor=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+  </picture>
 </p>
