@@ -35,7 +35,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently Building:** A micro-frontend platform with GitOps & Kubernetes (ArgoCD) — [JDW Platform](https://github.com/jdwillmsen)
+- 🔭 **Currently Building:** A micro-frontend platform with GitOps & Kubernetes (ArgoCD) — [JDW Labs](https://github.com/jdwlabs)
 - 🌱 **Learning:** Advanced Kubernetes patterns, Go, cloud-native architecture & platform engineering
 - 👯 **Open to:** Collaborating on innovative open-source projects
 - 💬 **Ask me about:** Angular, Java, AWS, Kubernetes, Go, micro-frontend architecture, or DevOps practices
