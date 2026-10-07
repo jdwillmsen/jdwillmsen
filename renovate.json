@@ -1,6 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:recommended"
-  ]
+  "description": [
+    "Extends the shared jdwlabs preset so this repository gets the same weekly batching, security handling and commit types as every other one, and picks up changes to that policy without an edit here.",
+    "Auto-merge is not opted into: updates here wait for a person."
+  ],
+  "extends": ["github>jdwlabs/.github"]
 }
