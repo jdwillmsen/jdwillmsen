@@ -35,10 +35,14 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently Building:** A micro-frontend platform with GitOps & Kubernetes (ArgoCD) — [JDW Labs](https://github.com/jdwlabs)
-- 🌱 **Learning:** Advanced Kubernetes patterns, Go, cloud-native architecture & platform engineering
+- 💼 **Currently:** Senior Software Engineer at Macquarie Group, building post-trade systems with Java, Spring Boot, Kafka and AWS EKS
+- 🔭 **Currently Building:**
+  - [**JDW Labs**](https://github.com/jdwlabs): a self-hosted platform engineering lab, from Kubernetes infrastructure to the custom services and apps that run on it
+  - [**jdwillmsen**](https://github.com/jdwillmsen): personal projects and tooling
+  - [**Dotablaze Tech**](https://github.com/dotablaze-tech): community apps and bots
+- 🌱 **Learning:** AI coding agents and agent tooling, Go, and platform engineering
 - 👯 **Open to:** Collaborating on innovative open-source projects
-- 💬 **Ask me about:** Angular, Java, AWS, Kubernetes, Go, micro-frontend architecture, or DevOps practices
+- 💬 **Ask me about:** Java, Spring Boot, Kafka, Angular, Kubernetes, AWS, Go, or platform engineering
 - 📫 **Reach me at:** jdwillmsen@gmail.com
 - ⚡ **Fun fact:** I'm rather tall 📏
 
