@@ -39,6 +39,30 @@ jobs:
         env:
           GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Check out activity graph renderer
+        uses: actions/checkout@v7
+        with:
+          repository: Ashutosh00710/github-readme-activity-graph
+          ref: 0962e9461de815933d462e8b98c7ce566cada8fb
+          path: activity-graph
+
+      # The project only ships as a web server, so run it locally just long
+      # enough to fetch the two themed images.
+      - name: Generate activity graph
+        working-directory: activity-graph
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER: ${{ github.repository_owner }}
+        run: |
+          npm ci --no-audit --no-fund
+          npm run build
+          PORT=5100 node dist/main.js &
+          for _ in $(seq 30); do curl -sf -o /dev/null localhost:5100/ && break; sleep 1; done
+          curl -sf -o ../dist/activity-graph.svg "localhost:5100/graph?username=$USER&theme=github-light&hide_border=true"
+          curl -sf -o ../dist/activity-graph-dark.svg "localhost:5100/graph?username=$USER&theme=one-dark&hide_border=true"
+          grep -q '<svg' ../dist/activity-graph.svg
+          grep -q '<svg' ../dist/activity-graph-dark.svg
+
       - name: Upload preview
         if: github.event_name == 'pull_request'
         uses: actions/upload-artifact@v4

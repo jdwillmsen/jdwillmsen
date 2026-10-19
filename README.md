@@ -131,9 +131,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=one-dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=github-light&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdwillmsen&theme=one-dark&hide_border=true" alt="Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jdwillmsen/jdwillmsen/output/activity-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jdwillmsen/jdwillmsen/output/activity-graph.svg">
+    <img src="https://raw.githubusercontent.com/jdwillmsen/jdwillmsen/output/activity-graph-dark.svg" alt="Contribution Graph" />
   </picture>
 </p>
 
