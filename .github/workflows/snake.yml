@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Images
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+  pull_request:
 
 permissions:
   contents: write
@@ -28,7 +29,25 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Set up Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Generate trophies
+        run: deno run -A scripts/trophy.ts "${{ github.repository_owner }}" dist/trophy.svg:flat dist/trophy-dark.svg:onedark
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload preview
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: profile-images
+          path: dist
+
       - name: Push to output branch
+        if: github.event_name != 'pull_request'
         uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
