@@ -1,16 +1,16 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0%2C2%2C2%2C5%2C30&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&font=Roboto">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=30%2C31%2C32%2C33%2C34&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlign=50&descAlignY=60&fontColor=000000&descColor=000000&font=Roboto">
-    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0%2C2%2C2%2C5%2C30&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Angular%20%7C%20Java%20%7C%20AWS%20%7C%20Go&descSize=25&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&font=Roboto" alt="Header"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0%2C2%2C2%2C5%2C30&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20and%20Platform&descSize=25&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&font=Roboto">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=30%2C31%2C32%2C33%2C34&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20and%20Platform&descSize=25&descAlign=50&descAlignY=60&fontColor=000000&descColor=000000&font=Roboto">
+    <img src="https://capsule-render.vercel.app/api?text=Jake%20Willmsen&animation=fadeIn&type=waving&color=gradient&customColorList=0%2C2%2C2%2C5%2C30&height=200&section=header&fontSize=60&fontAlign=50&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20and%20Platform&descSize=25&descAlign=50&descAlignY=60&fontColor=ffffff&descColor=ffffff&font=Roboto" alt="Header"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions&color=F0F6FC">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions&color=000000">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Angular+%7C+Java+%7C+AWS+Expert;Go+%7C+Kubernetes+%7C+Docker;Micro-frontends+Architect;Building+Scalable+Solutions&color=000000" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Kafka;TypeScript+%7C+Angular;Kubernetes+%7C+AWS+%7C+Go;Platform+and+AI+agent+tooling&color=F0F6FC">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Kafka;TypeScript+%7C+Angular;Kubernetes+%7C+AWS+%7C+Go;Platform+and+AI+agent+tooling&color=000000">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Kafka;TypeScript+%7C+Angular;Kubernetes+%7C+AWS+%7C+Go;Platform+and+AI+agent+tooling&color=000000" alt="Typing SVG" />
   </picture>
 </p>
 
