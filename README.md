@@ -180,19 +180,6 @@
 
 ---
 
-## ☕ Support My Work
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/jdwillmsen">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/jdwillmsen">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&fontColor=c9d1d9">
